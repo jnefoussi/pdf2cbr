@@ -1,6 +1,9 @@
 # PDF2CBR
 Tool to convert .pdf digital comics to .cbr format.
 
+**[Download](https://github.com/jnefoussi/pdf2cbr/raw/master/release/pdf2cbr_release.zip)**
+
+
 # Info
 Updated version from original source code created by Silmar Adriano (until version 1.2.45)
 
